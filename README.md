@@ -1,4 +1,4 @@
-![](https://i.ibb.co.com/1YJnTz75/git-Banner-1.png)
+![](https://i.ibb.co.com/CsDPCMC8/git-Banner.png)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -12,9 +12,10 @@ Hi! This is **Israt Jahan**, a MERN Stack Developer with a strong passion for bu
 
 ## More About Me:
 
-- 🔭 I’m currently working on **delivery service website**
+- 🔭 I’m currently working on **delivery-service-website**
 
-- 🌱 I’m currently learning **mongodb, react, expressjs**
+- 🌱 I’m currently learning **mongodb, react, express.js**
+-  🚀 I’m currently exploring **SQL, NEXT.JS**
 
 - 📫 How to reach me **israt9528@gmail.com**
 
@@ -31,10 +32,12 @@ Hi! This is **Israt Jahan**, a MERN Stack Developer with a strong passion for bu
 
  ## Github Stats
 
- | GitHub Stats | GitHub Streak |
+ | GitHub Stats |  GitHub Streak |
  |:---:|:---:|
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=israt9528&show_icons=true&locale=en" alt="israt9528" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israt9528&" alt="israt9528" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=israt9528&show_icons=true&locale=en" alt="israt9528" />
+  
+  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=israt9528&" alt="israt9528" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israt9528&label=Profile%20views&color=0e75b6&style=flat" alt="israt9528" /> </p>
