@@ -1,4 +1,7 @@
 ![](https://i.ibb.co.com/CsDPCMC8/git-Banner.png)
+![](https://i.ibb.co.com/svzswBY7/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
+    <img src="https://i.ibb.co.com/rGQwwSf7/Grey-and-Black-Simple-Opening-Soon-Banner.png">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
