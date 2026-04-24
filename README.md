@@ -1,4 +1,4 @@
-![]((https://i.ibb.co.com/fV3DGSYr/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1.png))
+![]([(https://i.ibb.co.com/fV3DGSYr/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1.png)])
 
 
 <h1 align="center">
