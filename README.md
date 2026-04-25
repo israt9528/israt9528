@@ -1,5 +1,5 @@
 ![](https://i.ibb.co.com/JwqzHW2f/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png)
-<img src="https://i.ibb.co.com/JwqzHW2f/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner.png">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
